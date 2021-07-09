@@ -1,1 +1,1 @@
-Welcome to **rust-100**, a wiki of 100 bite-sized Rust lessons to get you moving quickly. Please go to the wiki for the first lesson.
+Welcome to **rust-100**, a wiki of 100 bite-sized Rust lessons to get you moving quickly. Please go to [the wiki](https://github.com/rpivo/rust-100/wiki/1:-Checking-the-Currently-Installed-Version-of-Rust-&-Rustup) for the first lesson.
